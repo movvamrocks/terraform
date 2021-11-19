@@ -7,6 +7,6 @@ https://releases.hashicorp.com/terraform/
 ### Running Terraform 
 ```
 terraform init
-terraform apply
 terraform plan
+terraform apply
 ```
